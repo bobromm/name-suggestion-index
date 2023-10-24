@@ -6308,6 +6308,19 @@
         "route": "bus"
       }
     },
+        },
+    {
+      "displayName": "IDPK",
+      "id": "???",
+      "locationSet": {
+        "include": ["at", "cz", "sk"]
+      },
+      "tags": {
+        "network": "IDPK",
+        "network:wikidata": "Q12021682",
+        "route": "bus"
+      }
+    },
     {
       "displayName": "IDS JMK",
       "id": "idsjmk-151bbe",
